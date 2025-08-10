@@ -1,4 +1,4 @@
-# DSP-Vowel-Consonant-Analysis-
+# Dgital Signal Processing-Vowel-Consonant-Analysis-
 "DSP-based vowel vs consonant analysis using MATLAB – Summer Internship Project."
 # Spectral and Temporal Analysis of Vowel and Consonant Sounds using Digital Signal Processing
 
